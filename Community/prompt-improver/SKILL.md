@@ -1,6 +1,8 @@
 ---
 name: prompt-improver
 description: "Improve and optimize prompts for Claude using Anthropic's official best practices and the 5-Element Persona Framework. Use when asked to improve, refine, optimize, or review a prompt. Also triggers on requests to make prompts clearer, more effective, better structured, or to get better/more realistic outputs from Claude. Covers Claude 4.x-specific techniques, persona engineering, constraint-based prompting, and structured outputs."
+metadata:
+  author: skeletorjs
 ---
 # Prompt Improver
 
