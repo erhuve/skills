@@ -1184,6 +1184,17 @@
       "path": "Community/vapi"
     },
     {
+      "name": "revealjs-presentation",
+      "description": "Build interactive HTML slide presentations using Reveal.js + Chart.js. Use when asked to create a slide deck, pitch deck, presentation, or slideshow. Creates a single self-contained .html file with animations, charts, and polished UI. Can also publish presentations directly to zo.space as live page routes.\n",
+      "compatibility": "Created for Zo Computer",
+      "metadata": {
+        "author": "skeletorjs.zo.computer",
+        "version": 1
+      },
+      "slug": "revealjs-presentation",
+      "path": "Community/revealjs-presentation"
+    },
+    {
       "name": "remove-photo-metadata",
       "description": "Strip all metadata from images for privacy",
       "metadata": {
@@ -1217,6 +1228,17 @@
       },
       "slug": "twitter-api",
       "path": "Community/twitter-api"
+    },
+    {
+      "name": "zopack",
+      "description": "Export and import zo.space route setups as shareable .zopack.md files. Use when the user wants to package their zo.space routes for sharing, or when they receive a .zopack.md file to deploy. Triggers on \"export my zo.space\", \"create a zopack\", \"import this zopack\", or any mention of .zopack.md files.",
+      "compatibility": "Created for Zo Computer",
+      "metadata": {
+        "author": "skeletorjs.zo.computer",
+        "version": "1.0"
+      },
+      "slug": "zopack",
+      "path": "Community/zopack"
     },
     {
       "name": "seo-data",
