@@ -1,0 +1,11 @@
+{
+  "icon": "mail",
+  "tags": [
+    "email",
+    "marketing",
+    "automation"
+  ],
+  "integrations": [
+    "gmail"
+  ]
+}

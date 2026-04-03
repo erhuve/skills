@@ -1,0 +1,10 @@
+{
+  "icon": "kanban",
+  "tags": [
+    "productivity",
+    "project-management"
+  ],
+  "integrations": [
+    "trello"
+  ]
+}

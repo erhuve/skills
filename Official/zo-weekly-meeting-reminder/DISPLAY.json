@@ -1,0 +1,10 @@
+{
+  "icon": "bell",
+  "tags": [
+    "productivity",
+    "automation"
+  ],
+  "integrations": [
+    "google_calendar"
+  ]
+}

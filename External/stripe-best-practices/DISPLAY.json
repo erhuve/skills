@@ -1,0 +1,10 @@
+{
+  "icon": "credit-card",
+  "tags": [
+    "payments",
+    "developer-tools"
+  ],
+  "integrations": [
+    "stripe"
+  ]
+}
