@@ -17,7 +17,8 @@
         "tags": [
           "gaming",
           "server"
-        ]
+        ],
+        "image": "assets/minecraft.png"
       }
     },
     {
@@ -385,7 +386,8 @@
         "tags": [
           "memory",
           "knowledge"
-        ]
+        ],
+        "image": "assets/supermemory.png"
       }
     },
     {
