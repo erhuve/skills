@@ -1,0 +1,10 @@
+{
+  "icon": "newspaper",
+  "tags": [
+    "news",
+    "automation"
+  ],
+  "integrations": [
+    "gmail"
+  ]
+}

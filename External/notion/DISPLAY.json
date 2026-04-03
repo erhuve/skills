@@ -1,0 +1,10 @@
+{
+  "icon": "notebook",
+  "tags": [
+    "productivity",
+    "notes"
+  ],
+  "integrations": [
+    "notion"
+  ]
+}

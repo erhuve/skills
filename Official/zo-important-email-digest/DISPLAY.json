@@ -1,0 +1,10 @@
+{
+  "icon": "mail",
+  "tags": [
+    "email",
+    "automation"
+  ],
+  "integrations": [
+    "gmail"
+  ]
+}

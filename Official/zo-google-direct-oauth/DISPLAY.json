@@ -1,0 +1,12 @@
+{
+  "icon": "key",
+  "tags": [
+    "auth",
+    "developer-tools"
+  ],
+  "integrations": [
+    "google_drive",
+    "gmail",
+    "google_calendar"
+  ]
+}

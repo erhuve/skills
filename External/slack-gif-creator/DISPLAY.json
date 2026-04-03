@@ -1,0 +1,10 @@
+{
+  "icon": "image-play",
+  "tags": [
+    "fun",
+    "communication"
+  ],
+  "integrations": [
+    "slack"
+  ]
+}
