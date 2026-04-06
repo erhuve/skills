@@ -2,7 +2,7 @@
   "icon": "calendar",
   "tags": [
     "productivity",
-    "scheduling"
+    "automation"
   ],
   "integrations": [
     "google_calendar"

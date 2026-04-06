@@ -1,8 +1,7 @@
 {
   "icon": "calendar",
   "tags": [
-    "productivity",
-    "meetings"
+    "productivity"
   ],
   "integrations": [
     "google_calendar"
